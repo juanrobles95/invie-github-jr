@@ -1,2 +1,2 @@
 # invie-github-jr
-tus mejores guitarras invie-(curso platzi)
+tus mejores guitarras invie-(curso platzi) by @juan
