@@ -1,2 +1,4 @@
-# invie-github-jr
-tus mejores guitarras invie-(curso platzi) by @juan
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
